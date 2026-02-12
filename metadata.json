@@ -1,0 +1,6 @@
+
+{
+  "name": "KinEnergy",
+  "description": "A modern, SEO-optimized landing page for a professional physiotherapist based in Témara, Morocco, featuring advanced medical technologies and patient-centric care.",
+  "requestFramePermissions": ["geolocation"]
+}

@@ -67,7 +67,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 sm:px-6 flex justify-between items-center">
         <a href="#home" className="flex items-center space-x-2 sm:space-x-3">
           <img 
-            src="/assets/logo icon.png" 
+            src="/assets/logo-icon.png" 
             alt="KINENERGY Logo" 
             className="h-8 sm:h-10 w-auto"
           />
